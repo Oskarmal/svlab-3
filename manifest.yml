@@ -1,5 +1,5 @@
 ---
 applications:
-- name:    hello-node
-  host:    hello-node
+- name:    hello-node-devopslabb3
+  host:    hello-node-devopslabb3
   memory:  128M
